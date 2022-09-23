@@ -5,4 +5,4 @@ Pong Game
 
 Pong Game created using Python.  
 
-![Main Page](./assets/main_page.png)  
+![Main Page](./main.png)  
